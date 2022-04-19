@@ -1,5 +1,5 @@
-//import Web3 from "web3";
-import Web3 from "../node_modules/web3/src/index.js";
+import Web3 from "web3";
+//import Web3 from "../node_modules/web3/src/index.js";
 import starNotaryArtifact from "../../build/contracts/StarNotary.json" //assert { type: "json" };
 
 const App = {
